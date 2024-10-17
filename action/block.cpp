@@ -9,7 +9,7 @@
 #include"player.h"
 
 //マクロ定義
-#define MAX_BLOCK (256)																				//ブロックの最大数
+#define MAX_BLOCK (3)																				//ブロックの最大数
 
 //プレイヤーの弾構造体の定義
 typedef struct
